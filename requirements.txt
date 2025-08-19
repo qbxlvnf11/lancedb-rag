@@ -1,0 +1,5 @@
+pandas
+pyarrow
+pylance
+duckdb
+sentence_transformers
