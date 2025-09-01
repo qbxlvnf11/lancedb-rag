@@ -1,7 +1,7 @@
 Contents
 =============
 
-### - Key Features of LanceDB
+### - Key Features of [LanceDB](https://lancedb.com/) ([Git](https://github.com/lancedb/lancedb))
    * A LanceDB dataset object is not an in-memory copy of your data. Instead, it acts as a lightweight handler that points directly to the data files stored on disk.
    * This design allows LanceDB to handle datasets that are much larger than the available RAM, providing high performance without excessive memory consumption. It intelligently maps and accesses only the data it needs, when it needs it.
 
