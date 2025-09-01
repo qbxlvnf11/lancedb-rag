@@ -3,3 +3,4 @@ pyarrow
 pylance
 duckdb
 sentence_transformers
+lancedb
