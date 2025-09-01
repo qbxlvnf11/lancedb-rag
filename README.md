@@ -7,7 +7,7 @@ Contents
 
 ### - Lance DB RAG Test
    * Lance DB Class: Build, Convert, Add, Search etc.
-   * Simple Lance-DB-Based RAG
+   * Simple Lance-DB-Based RAG (Encoder: [all-MiniLM-L6-v2](https://huggingface.co/sentence-transformers/all-MiniLM-L6-v2))
    * Lance DB SQL
    * Lance DB Vector Searching
    * Lance DB Vector Searching with Metadata Filtering (SQL)
